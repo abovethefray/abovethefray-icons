@@ -9,6 +9,7 @@
     url("fonts/abovethefray-icons.svg#abovethefray-icons") format("svg");
   font-weight: normal;
   font-style: normal;
+
 }
 
 [data-icon]:before {
@@ -147,4 +148,10 @@
 }
 .atf-twitter:before {
   content: "\4b";
+}
+.atf-icon-social-pinterest:before {
+  content: "\4c";
+}
+.atf-icon-mail:before {
+  content: "\4d";
 }
